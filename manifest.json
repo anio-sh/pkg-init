@@ -1,0 +1,6 @@
+{
+	"env": {
+		"ANIO_SH_SSD_UUID": "xxx",
+		"ANIO_SH_HDD_UUID": "xxx"
+	}
+}
